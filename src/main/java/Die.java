@@ -19,7 +19,7 @@ public class Die {
         rollDie();
     }
 
-    public char getDieNum() {
+    public char getDieNum()  {
         return dieNum;
     }
 
